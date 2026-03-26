@@ -6,7 +6,7 @@ A digital pet that grows and evolves based on your coding habits! Track your cod
 XP & Leveling System: Gain experience points based on coding time and lines written
 Pet Care Mechanics: Feed and play with your pet to maintain health and happiness
 Visual Progress Tracking: See your pet's stats and evolution path in real-time
-Beautiful UI: Gradient backgrounds and smooth animations
+Beautiful UI: Gradient backgrounds and smooth animations.
 
 🎮 How to Play
 
